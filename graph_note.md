@@ -57,7 +57,7 @@ $$
 	1. $K_1$ not enough to form, $K_2$ is bipartite, $n>2$ is not bipartite
 	2. $K_4$ is planar
 
-* Cycles $C_n$ (n$\geq$3)
+* Cycles $C_n$ ($n\geq 3$)
 	* Vertex number: $n$
 	* Edge number: $n$
 	1. If n is even, $C_n$ is bipartite. If n is odd, $C_n$ is not bipartite
