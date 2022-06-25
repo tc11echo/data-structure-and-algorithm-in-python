@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/help/documentation/)
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/)
 
 These notes are help to record what I have learned about data structure and algorithm
@@ -32,6 +32,8 @@ Strongly suggest open with Colaboratory
         * AVL Tree
         * :construction: Red–black tree
         * :construction: AA tree
+     * :construction: 2-3 tree
+     * :construction: B+ tree
 * :construction: [Graph](graph.ipynb) / [Appendix of Graph](graph_note.md)
 * [Heap](heap.ipynb)
 * [Hash](hash.ipynb)
