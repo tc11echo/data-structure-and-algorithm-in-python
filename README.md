@@ -25,6 +25,7 @@ Strongly suggest open with Colaboratory
     * Doubly Linked List
     * :construction: Circular Linked List
 * [Stack and Queue](stack_and_queue.ipynb)
+* :construction: [Graph](graph.ipynb) / [Appendix of Graph](graph_note.md)
 * [Tree](tree.ipynb) / [Appendix of Tree](tree_note.md)
     * Binary Tree Traversal
     * Binary Tree
@@ -34,7 +35,6 @@ Strongly suggest open with Colaboratory
         * :construction: AA Tree
      * :construction: 2-3 Tree
      * :construction: B+ Tree
-* :construction: [Graph](graph.ipynb) / [Appendix of Graph](graph_note.md)
 * [Heap](heap.ipynb)
 * [Hash](hash.ipynb)
 
@@ -60,6 +60,6 @@ Strongly suggest open with Colaboratory
         * Interpolation Search
         * Fibonacci Search
         * Exponential Search / Doubling Search / Galloping Search / Struzik Search
-    * Graph
+    * Graph / Tree
         * :construction: Depth-first Search
         * :construction: Breadth-first Search
