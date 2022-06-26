@@ -59,6 +59,7 @@ Strongly suggest open with Colaboratory
         * Binary Search
         * Interpolation Search
         * Fibonacci Search
+        * Exponential Search / Doubling Search / Galloping Search / Struzik Search
     * Graph
         * :construction: Depth-first Search
         * :construction: Breadth-first Search
