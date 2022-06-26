@@ -30,10 +30,10 @@ Strongly suggest open with Colaboratory
     * Binary Tree
         * Binary Search Tree
         * AVL Tree
-        * :construction: Red–black tree
-        * :construction: AA tree
-     * :construction: 2-3 tree
-     * :construction: B+ tree
+        * :construction: Red–black Tree
+        * :construction: AA Tree
+     * :construction: 2-3 Tree
+     * :construction: B+ Tree
 * :construction: [Graph](graph.ipynb) / [Appendix of Graph](graph_note.md)
 * [Heap](heap.ipynb)
 * [Hash](hash.ipynb)
@@ -49,7 +49,7 @@ Strongly suggest open with Colaboratory
         * Merge Sort
         * Quick Sort
         * Heap Sort
-    * Non-Comparison Sort
+    * Non-comparison Sort
         * Bucket Sort
         * Radix Sort
 
