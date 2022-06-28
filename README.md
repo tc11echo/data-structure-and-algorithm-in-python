@@ -45,6 +45,7 @@ Strongly suggest open with Colaboratory
         * Selection Sort
         * Bubble Sort
         * Cocktail Sort / Bidirectional Bubble Sort / Shaker Sort / Ripple Sort / Shuffle Sort / Shuttle Sort
+        * Comb Sort
         * Insertion Sort
         * Shell Sort
         * Merge Sort
