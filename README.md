@@ -13,10 +13,14 @@ Strongly suggest open with Colaboratory
 [![open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tc11echo/data-structure-and-algorithm-in-python/HEAD)
 [![open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tc11echo/data-structure-and-algorithm-in-python)
 
+---
+
 ### :beginner: Basic Concept
 
 * [Introduction to Python](intro_python.ipynb)
 * [Algorithm and Algorithm Efficiency (Big-O)](algorithm_and_algorithm_efficiency.ipynb)
+
+---
 
 ### :books: Data Structure
 
@@ -37,6 +41,8 @@ Strongly suggest open with Colaboratory
     * :construction: B+ Tree
 * [Heap](heap.ipynb)
 * [Hash](hash.ipynb)
+
+---
 
 ### :mag: Algorithm
 
@@ -66,3 +72,21 @@ Strongly suggest open with Colaboratory
     * Graph / Tree
         * :construction: Depth-first Search
         * :construction: Breadth-first Search
+
+---
+
+### :memo: Reference
+
+[Geeks for Geeks](https://www.geeksforgeeks.org/)
+
+[Wikipedia : Data Structure](https://en.wikipedia.org/wiki/Data_structure)
+
+[Wikipedia : Sorting Algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm)
+
+[GitHub : Python Algorithm](https://github.com/TheAlgorithms/Python)
+
+[演算法筆記](https://web.ntnu.edu.tw/~algo/)
+
+[演算法與資料結構](http://alrightchiu.github.io/SecondRound/mu-lu-yan-suan-fa-yu-zi-liao-jie-gou.html)
+
+[GitHub : My algorithms & data-structures Learning Note](https://github.com/aaron1aaron2/SCU-class_DSA-2019)
