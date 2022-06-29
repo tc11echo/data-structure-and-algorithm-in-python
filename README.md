@@ -48,9 +48,9 @@ Strongly suggest open with Colaboratory
         * Comb Sort
         * Insertion Sort
         * Shell Sort
-        * Heap Sort
         * Merge Sort
         * Quick Sort
+        * Heap Sort
     * Non-comparison Sort
         * Bucket Sort
         * Counting Sort
