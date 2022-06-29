@@ -21,7 +21,7 @@ Strongly suggest open with Colaboratory
 ### :books: Data Structure
 
 * [Linked List](linked_list.ipynb)
-	* Singly Linked List
+    * Singly Linked List
     * Doubly Linked List
     * :construction: Circular Linked List
 * [Stack and Queue](stack_and_queue.ipynb)
@@ -30,11 +30,11 @@ Strongly suggest open with Colaboratory
     * Binary Tree Traversal
     * Binary Tree
         * Binary Search Tree
-        * AVL Tree
-        * :construction: Red–black Tree
-        * :construction: AA Tree
-     * :construction: 2-3 Tree
-     * :construction: B+ Tree
+            * AVL Tree
+            * :construction: Red–black Tree
+            * :construction: AA Tree
+    * :construction: 2-3 Tree
+    * :construction: B+ Tree
 * [Heap](heap.ipynb)
 * [Hash](hash.ipynb)
 
@@ -44,15 +44,16 @@ Strongly suggest open with Colaboratory
     * Comparison Sort
         * Selection Sort
         * Bubble Sort
-        * Cocktail Sort / Bidirectional Bubble Sort / Shaker Sort / Ripple Sort / Shuffle Sort / Shuttle Sort
+        * Cocktail Sort / Shaker Sort / Bi-directional Bubble Sort / Ripple Sort / Shuffle Sort / Shuttle Sort
         * Comb Sort
         * Insertion Sort
         * Shell Sort
+        * Heap Sort
         * Merge Sort
         * Quick Sort
-        * Heap Sort
     * Non-comparison Sort
         * Bucket Sort
+        * Counting Sort
         * Radix Sort
 
 * [Searching](searching.ipynb)
