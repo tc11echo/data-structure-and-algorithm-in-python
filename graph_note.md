@@ -35,7 +35,7 @@ $$
 $$
 
 * The degree of $v$ , $deg(v) = deg^-(v)+deg^+(v)$, is the sum of $v$ ’s in-degree and out-degree
-	* The in-degree of $$v$$ , $deg^−(v)$, is the number of edges going to $v$
+	* The in-degree of $v$ , $deg^−(v)$, is the number of edges going to $v$
 	* The out-degree of $v$ , $deg^+(v)$, is the number of edges coming from $v$
 
 * **Corollary **: Any undirected graph has an even number of vertices of odd degree
