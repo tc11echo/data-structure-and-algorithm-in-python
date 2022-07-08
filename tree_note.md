@@ -47,10 +47,6 @@
 * **Subtree**: a subtree of a tree $T$ is a tree $T'$ such that
 	* $V(T') \subseteq V(T)\ and\ E(T') \subseteq E(T)$
 
-
-
-ref: <http://alrightchiu.github.io/SecondRound/treeshu-introjian-jie.html>
-
 ### Property
 
 **Theorem**:
