@@ -23,7 +23,7 @@ Strongly suggest open with Colaboratory
 ---
 
 ### :books: Data Structure
-* [Python Built-in Data Type / Structure](built_in_data_structure_and-operator.ipynb)
+* [Python Built-in Data Type / Structure](python_built_in_data_structure_and_operator.ipynb)
 * [Linked List](linked_list.ipynb)
     * Singly Linked List
     * Doubly Linked List
