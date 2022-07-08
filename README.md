@@ -23,7 +23,7 @@ Strongly suggest open with Colaboratory
 ---
 
 ### :books: Data Structure
-
+* [Built-in Data Structure](built_in_data_structure.ipynb)
 * [Linked List](linked_list.ipynb)
     * Singly Linked List
     * Doubly Linked List
