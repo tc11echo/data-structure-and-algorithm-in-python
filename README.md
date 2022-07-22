@@ -17,20 +17,20 @@ Strongly suggest open with Colaboratory
 
 ### :beginner: Basic Concept
 
-* [Introduction to Python](intro_python.ipynb)
-* [Algorithm and Algorithm Efficiency (Big-O)](algorithm_and_algorithm_efficiency.ipynb)
+* [Introduction to Python](/basic_concept/intro_python.ipynb)
+* [Algorithm and Algorithm Efficiency (Big-O)](/basic_concept/algorithm_and_algorithm_efficiency.ipynb)
 
 ---
 
 ### :books: Data Structure
-* [Python Built-in Data Type / Data Structure](python_built_in_data_structure_and_operator.ipynb)
-* [Linked List](linked_list.ipynb)
+* [Python Built-in Data Type / Data Structure](/data_structure/python_built_in_data_structure_and_operator.ipynb)
+* [Linked List](/data_structure/linked_list.ipynb)
     * Singly Linked List
     * Doubly Linked List
     * :construction: Circular Linked List
-* [Stack and Queue](stack_and_queue.ipynb)
-* :construction: [Graph](graph.ipynb) / [Appendix of Graph](graph_note.md)
-* [Tree](tree.ipynb) / [Appendix of Tree](tree_note.md)
+* [Stack and Queue](/data_structure/stack_and_queue.ipynb)
+* :construction: [Graph](/data_structure/graph.ipynb) / [Appendix of Graph](/data_structure/graph_note.md)
+* [Tree](/data_structure/tree.ipynb) / [Appendix of Tree](/data_structure/tree_note.md)
     * Binary Tree Traversal
     * Binary Tree
         * Binary Search Tree
@@ -39,14 +39,14 @@ Strongly suggest open with Colaboratory
             * :construction: AA Tree
     * :construction: 2-3 Tree
     * :construction: B+ Tree
-* [Heap](heap.ipynb)
-* [Hash](hash.ipynb)
+* [Heap](/data_structure/heap.ipynb)
+* [Hash](/data_structure/hash.ipynb)
 
 ---
 
 ### :mag: Algorithm
 
-* [Sorting](sorting.ipynb)
+* [Sorting](/algorithm/sorting.ipynb)
     * Comparison Sort
         * Selection Sort
         * Bubble Sort
@@ -62,7 +62,7 @@ Strongly suggest open with Colaboratory
         * Counting Sort
         * Radix Sort
 
-* [Searching](searching.ipynb)
+* [Searching](/algorithm/searching.ipynb)
     * Array / List
         * Linear Search / Sequential Search
         * Binary Search
