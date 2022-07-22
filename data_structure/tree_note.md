@@ -4,7 +4,7 @@
 
 * A tree is a connected undirected graph with no simple circuits
 
-![tree-example.png](/pic/tree_note_pic/tree_note_example.png)
+![tree-example.png](/data_structure/pic/tree_note_pic/tree_note_example.png)
 
 ##### Node/Vertex
 
@@ -124,7 +124,7 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;$T$ := $T$ with e added
 > **return** $T$ {$T$ is a minimum spanning tree of $G$}
 
-![prim.JPG](/pic/tree_note_pic/tree_note_prim.jpg)
+![prim.JPG](/data_structure/pic/tree_note_pic/tree_note_prim.jpg)
 
 * Kruskal’s algorithm
 
@@ -135,4 +135,4 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;$T$ := $T$ with $e$ added
 > **return** $T$ {$T$ is a minimum spanning tree of $G$}
 
-![kruskal.JPG](/pic/tree_note_pic/tree_note_prim.jpg)
+![kruskal.JPG](/data_structure/pic/tree_note_pic/tree_note_prim.jpg)
