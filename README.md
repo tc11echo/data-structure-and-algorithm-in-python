@@ -18,7 +18,6 @@ Strongly suggest open with Colaboratory
 ### :beginner: Basic Concept
 
 * [Introduction to Python](/basic_concept/intro_python.ipynb)
-* [Algorithm and Algorithm Efficiency (Big-O)](/basic_concept/algorithm_and_algorithm_efficiency.ipynb)
 
 ---
 
@@ -45,7 +44,7 @@ Strongly suggest open with Colaboratory
 ---
 
 ### :mag: Algorithm
-
+* [Algorithm and Algorithm Efficiency (Big-O)](/algorithm/algorithm_note.md)
 * [Sorting](/algorithm/sorting.ipynb)
     * Comparison Sort
         * Selection Sort
