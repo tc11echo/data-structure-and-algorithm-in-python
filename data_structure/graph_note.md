@@ -12,11 +12,11 @@ Adjacency lists, Adjacency matrices, Incidence matrices
 
 * Adjacency lists
 
-![graph_note_adjacency_lists](/pic/graph_note_pic/graph_note_adjacency_lists.png)
+![graph_note_adjacency_lists](/data_structure/pic/graph_note_pic/graph_note_adjacency_lists.png)
 
 * Adjacency matrices
 
-![graph_note_adjacency_matrices](/pic/graph_note_pic/graph_note_adjacency_matrices.png)
+![graph_note_adjacency_matrices](/data_structure/pic/graph_note_pic/graph_note_adjacency_matrices.png)
 
 ### Graph Type
 
