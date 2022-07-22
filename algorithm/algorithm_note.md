@@ -77,11 +77,12 @@ $$1 < log(log(n)) < log(n) < n < nlog(n) < n^2 < n^3 < 2^n < n!$$
 
 **Example1:**
 
-$\begin{split}f(n)&=5n^2+3n+4
-\\ f(n) &\leq5n^2+3n^2+4n^2,\ where(n^2)\ is\ the\ leading\ term
-\\ &=12n^2
-\\ &\leq cg(n),\ where(n\geq n_0)
-\end{split}$
+$$\begin{split}
+f(n)&=5n^2+3n+4 \\
+f(n) &\leq5n^2+3n^2+4n^2,\ where(n^2)\ is\ the\ leading\ term \\
+&=12n^2 \\
+&\leq cg(n),\ where(n\geq n_0)
+\end{split}$$
 
 $c=12,\ g(n)=n^2,\ n_0=1$
 
@@ -93,14 +94,16 @@ $f(n)=O(g(n))$
 
 **Example2:**
 
-$\begin{split}f(n)&=3logn+5
-\\ f(n) &\leq3 logn+5logn,\ where(logn)\ is\ the\ leading\ term
-\\ &=8logn
-\\ &\leq cg(n),\ where(n \geq n_0)
-\end{split}$
+$$\begin{split}
+f(n)&=3logn+5 \\
+f(n) &\leq3 logn+5logn,\ where(logn)\ is\ the\ leading\ term \\
+&=8logn \\
+&\leq cg(n),\ where(n \geq n_0) \\
+\end{split}$$
 
-$ c=8,\ n_0=2
-\\ f(n)=O(g(n))$
+$c=8,\ n_0=2$
+
+$f(n)=O(g(n))$
 
 -->$3logn+5=O(logn)$
 
@@ -128,13 +131,15 @@ The total number of running time is (N)+(N-1)+(N-2)+...+(N-k), and k = N-1 (by c
 
 <br/>
 
-$\begin{split}\displaystyle\sum_{i=0}^{N-1}(N-i)
-&=\displaystyle\sum_{i=0}^{N-1}N-\displaystyle\sum_{i=0}^{N-1}i
-\\&=N\displaystyle\sum_{i=0}^{N-1}-(0+1+...+(N-1))
-\\&=N(N)-\frac{N-1}{2}(1+(N-1))
-\\&=N^2-(\frac{N^2-N}{2})
-\\&=\frac{N^2}{2}+\frac{N}{2}
-\\&=O(N^2)\end{split}$
+$$\begin{split}
+\displaystyle\sum_{i=0}^{N-1}(N-i)
+&=\displaystyle\sum_{i=0}^{N-1}N-\displaystyle\sum_{i=0}^{N-1}i \\
+&=N\displaystyle\sum_{i=0}^{N-1}-(0+1+...+(N-1)) \\
+&=N(N)-\frac{N-1}{2}(1+(N-1)) \\
+&=N^2-(\frac{N^2-N}{2}) \\
+&=\frac{N^2}{2}+\frac{N}{2} \\
+&=O(N^2)
+\end{split}$$
 
 ---
 # Reference
