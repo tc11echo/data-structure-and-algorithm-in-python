@@ -73,7 +73,7 @@ $$1 < log(log(n)) < log(n) < n < nlog(n) < n^2 < n^3 < 2^n < n!$$
 
 ---
 
-#Calculating Big-O from equation
+# Calculating Big-O from equation
 
 **Example1:**
 
@@ -81,12 +81,11 @@ $$\begin{split}
 f(n)&=5n^2+3n+4 \\
 f(n) &\leq5n^2+3n^2+4n^2,\ where(n^2)\ is\ the\ leading\ term \\
 &=12n^2 \\
-&\leq cg(n),\ where(n\geq n_0)
+&\leq cg(n),\ where(n\geq n_0) \\
+\\
+c&=12,\ g(n)=n^2,\ n_0=1 \\
+f(n)&=O(g(n))
 \end{split}$$
-
-$c=12,\ g(n)=n^2,\ n_0=1$
-
-$f(n)=O(g(n))$
 
 -->$5n^2+3n+4=O(n^2)$
 
@@ -99,18 +98,17 @@ f(n)&=3logn+5 \\
 f(n) &\leq3 logn+5logn,\ where(logn)\ is\ the\ leading\ term \\
 &=8logn \\
 &\leq cg(n),\ where(n \geq n_0) \\
+\\
+c&=8,\ n_0=2 \\
+f(n)&=O(g(n))
 \end{split}$$
-
-$c=8,\ n_0=2$
-
-$f(n)=O(g(n))$
 
 -->$3logn+5=O(logn)$
 
 
 ---
 
-#Calculating Big-O from code
+# Calculating Big-O from code
 
 ```
 for i in range(0,N):
